@@ -75,7 +75,7 @@ paramiko==3.4.0
 passlib==1.7.4
 pgadmin4 @ file:///home/paul/pgadmin4-8.2-py3-none-any.whl#sha256=f960157cefb19fcf4a54de16cdcd664a0f9a3a2d134d1eb8708f97338134cb1c
 portalocker==2.8.2
-protobuf==4.25.2
+protobuf==4.25.8
 psutil==5.9.8
 psycopg==3.1.12
 psycopg-binary==3.1.12
